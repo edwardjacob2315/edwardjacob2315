@@ -1,0 +1,10 @@
+- 👋 Hi, I’m Bintang
+- 👀 I’m Data related stuff
+- 🌱 I’m currently learning Data Science
+- 💞️ I’m looking to collaborate on data related projects
+- 📫 How to reach me: bintangm22@gmail.com/(+62)813-8270-1896
+
+<!---
+edwardjacob2315/edwardjacob2315 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
