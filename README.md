@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Bintang
-- 👀 I’m Data related stuff
+- 👀 I’m interested in Data related stuff
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on data related projects
 - 📫 How to reach me: bintangm22@gmail.com/(+62)813-8270-1896
