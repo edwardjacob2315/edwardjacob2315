@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Bintang
-- 👀 I’m interested in Data related stuff
+- 👀 Data Analyst
 - 📫 How to reach me: bintangm22@gmail.com/(+62)813-8270-1896
 
 Feel free to look at my Repositories, thanks!
