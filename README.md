@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Bintang
 - 👀 Data Analyst
 - 📫 How to reach me: bintangm22@gmail.com/(+62)813-8270-1896
+- Mediun.com https://medium.com/@bintangm22
 
 Feel free to look at my Repositories, thanks!
 
