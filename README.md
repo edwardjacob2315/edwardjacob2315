@@ -2,6 +2,7 @@
 - 👀 Data Analyst
 - 📫 How to reach me: bintangm22@gmail.com/(+62)813-8270-1896
 - Mediun.com https://medium.com/@bintangm22
+- Resume https://docs.google.com/document/d/1baHzLbtja-tVdsMTHvElTK0Iysg8wH2eP8Ugz-EcdPo/edit?usp=sharing
 
 Feel free to look at my Repositories, thanks!
 
